@@ -136,7 +136,7 @@ Definitions: define the terms that are essential to this chapter.
 +=======================+=============================================+
 | Anterior (or ventral) | front of body                               |
 +-----------------------+---------------------------------------------+
-| Posterior (or dorsal) |                                             |
+| Posterior (or dorsal) | back of body                                |
 +-----------------------+---------------------------------------------+
 | Superior (or cranial) |                                             |
 +-----------------------+---------------------------------------------+
